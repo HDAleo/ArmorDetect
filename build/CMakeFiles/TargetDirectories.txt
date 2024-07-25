@@ -1,0 +1,3 @@
+/home/hda/code/BigHomeWork/build/CMakeFiles/Project.dir
+/home/hda/code/BigHomeWork/build/CMakeFiles/edit_cache.dir
+/home/hda/code/BigHomeWork/build/CMakeFiles/rebuild_cache.dir
